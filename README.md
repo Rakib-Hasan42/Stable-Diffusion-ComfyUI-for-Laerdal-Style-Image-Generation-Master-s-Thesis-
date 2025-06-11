@@ -2,7 +2,7 @@
 
 This repository contains the work from our master's thesis project:  
 **"Stable Diffusion and Image Generation to Assist Designers"**  
-in collaboration with **Laerdal Medical**.
+in collaboration with **Laerdal Medical**
 
 
 ## Table of Contents
